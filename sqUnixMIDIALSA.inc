@@ -31,7 +31,7 @@
  * squeakland dot oh are gee
  *
  * Modified for Scratch on Raspberry Pi by Manabu Sugiura
- * - Compatibility of MIDI instruments on Rasbian
+ * - Compatibility of MIDI instruments on Raspbian
  * - YAMAHA NSX-1 and NSX-39
  *   http://yamaha-webmusic.github.io/nsx1-apps/specs/ANMW820A-001-10-j.pdf
  *
