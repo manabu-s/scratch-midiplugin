@@ -1,4 +1,4 @@
 MIDIPlugin
 ==========
 
-Scratch MIDIPlugin on Raspberry Pi
+Scratch1.4 MIDIPlugin on Raspberry Pi
